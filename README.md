@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer from Earth</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM3OWcybWw2bGJycTB6N2lybXNrdjVkOXVnc2lqanZicDdzbXM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt3tFiX0eEI5p6g/giphy.gif">
 
-- 🔭 I’m currently working on Various Projects
+- 🔭 I’m currently working on **Various Projects**
 
 - 🌱 I’m currently learning **Dart and JavaScript**
 
