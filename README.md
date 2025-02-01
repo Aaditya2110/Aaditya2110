@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aaditya Gaur</h1>
 <h3 align="center">A passionate Developer from Earth</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/southparkgifs-3o6Zt3tFiX0eEI5p6g">
+<p align="right">
+  <img src="https://giphy.com/gifs/southparkgifs-3o6Zt3tFiX0eEI5p6g" width="400" alt="Coding GIF">
+</p>
 
 - 🔭 I’m currently working on **Various Projects**
 
