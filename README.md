@@ -3,13 +3,16 @@
 
 - 🔭 I’m currently working on **Various Projects**
 
-- 🌱 I’m currently learning **Dart,JS**
+- 🌱 I’m currently learning **Dart and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://aaditya2110.github.io/Portfolio/](https://aaditya2110.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on my [Portfolio][portfolio]
 
-- 📫 How to reach me **aadityagaur913@gmail.com**
+- 📫 How to reach me: **aadityagaur913@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing](https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing)
+- 📄 Know about my experiences: [Resume][resume]
+
+[portfolio]: https://aaditya2110.github.io/Portfolio/
+[resume]: https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
