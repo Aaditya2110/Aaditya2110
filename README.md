@@ -13,7 +13,7 @@
 
 [portfolio]: https://aaditya2110.github.io/Portfolio/
 [resume]: https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing
-<div style="margin-right: 20px;">
+<div style="margin-left: 20px;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM3OWcybWw2bGJycTB6N2lybXNrdjVkOXVnc2lqanZicDdzbXM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt3tFiX0eEI5p6g/giphy.gif" width="100" alt="Coding GIF">
   </div>
 
