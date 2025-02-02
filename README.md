@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Gaur</h1>
 <h3 align="center">A passionate Developer from Earth</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc0NDIwMmdxaWNjZm4zODQ5ajA5dHYyMmh4bXFoODAzbzFvemtoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTJLe0xXX6QrPg1nVl/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw4ZmtldW1mN2NydnN4bWt6eHU3N3g3YXc2MWpqeHc4djIwZDU0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDB85YZsrqMXx3c7DE/giphy.gif">
 
 - I’m currently working on **Various Projects**
 
