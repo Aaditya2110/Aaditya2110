@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Developer from Earth</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM3OWcybWw2bGJycTB6N2lybXNrdjVkOXVnc2lqanZicDdzbXM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt3tFiX0eEI5p6g/giphy.gif">
 
-- 🔭 I’m currently working on **Various Projects**
+- I’m currently working on **Various Projects**
 
-- 🌱 I’m currently learning **Dart and JavaScript**
+- I’m currently learning **Dart and JavaScript**
 
-- 👨‍💻 All of my projects are available on my [Portfolio][portfolio]
+- All of my projects are available on my [Portfolio][portfolio]
 
-- 📫 How to reach me: **aadityagaur913@gmail.com**
+- How to reach me: **aadityagaur913@gmail.com**
 
-- 📄 Know about my experiences: [Resume][resume]
+- Know about my experiences: [Resume][resume]
 
 [portfolio]: https://aaditya2110.github.io/Portfolio/
 [resume]: https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing
