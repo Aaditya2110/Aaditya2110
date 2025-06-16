@@ -1,25 +1,138 @@
-<h1 align="center">Hi 👋, I'm Aaditya Gaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 🌟 Welcome to My Digital Universe! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya2110&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya2110" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaditya+Gaur;Frontend+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **Various Projects**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
+</div>
 
-- 🌱 I’m currently learning **Dart,JS**
+---
 
-- 👨‍💻 All of my projects are available at [https://aaditya2110.github.io/Portfolio/](https://aaditya2110.github.io/Portfolio/)
+## 🎯 About Me
 
-- 📫 How to reach me **aadityagaur913@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing](https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing)
+```typescript
+const aaditya = {
+  name: "Aaditya Gaur",
+  location: "India 🇮🇳",
+  role: "App Developer",
+  passions: ["UI/UX Design", "App Development", "Game Development"],
+  currentFocus: "Building amazing user experiences",
+  lifePhilosophy: "Code is poetry written in logic 💫"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaditya-gaur-462386256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya-gaur-462386256" height="30" width="40" /></a>
-<a href="https://instagram.com/aaditya.gaur21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaditya.gaur21" height="30" width="40" /></a>
-</p>
+- 🔭 **Currently working on:** Various innovative projects
+- 🌱 **Learning:** Dart & App Development
+- 💻 **Portfolio:** [View My Work](https://aaditya2110.github.io/Portfolio/)
+- 📧 **Contact:** aadityagaur913@gmail.com
+- 📄 **Resume:** [Download PDF](https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya2110&show_icons=true&locale=en&layout=compact" alt="aaditya2110" /></p>
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/aaditya-gaur-462386256">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/aaditya.gaur21">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://aaditya2110.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:aadityagaur913@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎨 Frontend & Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,figma" alt="Frontend Skills"/>
+</div>
+
+### 🔧 Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,mongodb,mysql,firebase" alt="Backend Skills"/>
+</div>
+
+### 🎮 Game Development & 3D
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,flutter" alt="Game Dev Skills"/>
+</div>
+
+### ☁️ Cloud & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,c" alt="Cloud & Tools"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaditya2110&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya2110&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya2110&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+---
+
+## 🎨 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya2110&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaditya2110&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350"/>
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaditya2110&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Footer Animation"/>
+  
+  ### ⚡ "Code is like humor. When you have to explain it, it's bad." ⚡
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Thank You"/>
+</div>
