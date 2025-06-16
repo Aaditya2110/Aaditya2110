@@ -78,6 +78,10 @@ const aaditya = {
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaditya2110&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya2110&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya2110&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
@@ -107,13 +111,6 @@ const aaditya = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </div>
 
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350"/>
-</div>
 
 ---
 
@@ -126,7 +123,7 @@ const aaditya = {
 ---
 
 <div align="center">
-  <
+  
   ### ⚡ "Code is like humor. When you have to explain it, it's bad." ⚡
   
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Thank You"/>
