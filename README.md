@@ -79,12 +79,11 @@ const aaditya = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya2110&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya2110&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya2110&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
+
 
 ---
 
