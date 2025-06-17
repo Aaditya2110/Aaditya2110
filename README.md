@@ -44,31 +44,6 @@ const aaditya = {
   </a>
 </div>
 
----
-
-## 🛠️ Tech Arsenal
-
-### 🎨 Frontend & Design
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,figma" alt="Frontend Skills"/>
-</div>
-
-### 🔧 Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,mongodb,mysql,firebase" alt="Backend Skills"/>
-</div>
-
-### 🎮 Game Development & 3D
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,flutter" alt="Game Dev Skills"/>
-</div>
-
-### ☁️ Cloud & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,c" alt="Cloud & Tools"/>
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
