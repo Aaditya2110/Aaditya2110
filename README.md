@@ -1,8 +1,8 @@
 #  Welcome to My Github! 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaditya+Gaur;App+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaditya+Gaur;I'm+Doing+App+Development+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
----
+
 
 ## 🎯 About Me
 
