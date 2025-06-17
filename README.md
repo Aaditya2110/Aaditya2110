@@ -79,7 +79,6 @@ const aaditya = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaditya2110&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya2110&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
