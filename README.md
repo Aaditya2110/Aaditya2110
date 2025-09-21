@@ -11,10 +11,10 @@
 const aaditya = {
   name: "Aaditya Gaur",
   location: "India 🇮🇳",
-  role: "App Developer",
-  passions: ["UI/UX Design", "App Development", "Game Development"],
+  role: "Web & App Developer",
+  passions: ["Web Development", "App Development", "Game Development"],
   currentFocus: "Building amazing user experiences",
-  lifePhilosophy: "Code is poetry written in logic 💫"
+  lifePhilosophy: "Just do it!!"
 };
 ```
 
@@ -35,8 +35,4 @@ const aaditya = {
 
 ---
 
-## 🎨 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya2110&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Contribution Graph"/>
-</div>
