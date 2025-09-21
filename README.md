@@ -1,10 +1,10 @@
-#  Welcome to My Github! 
+# Welcome to My Github!
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaditya+Gaur;I'm+Doing+App+Development+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaditya+Gaur;I'm+Doing+App+Development+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
 const aaditya = {
@@ -15,10 +15,12 @@ const aaditya = {
   currentFocus: "Building amazing user experiences",
   lifePhilosophy: "Code is poetry written in logic 💫"
 };
+```
 
 ---
 
 ## 🌐 Connect With Me
+
 <div align="center">
   <a href="https://linkedin.com/in/aaditya-gaur-462386256">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,7 +36,10 @@ const aaditya = {
   </a>
 </div>
 
+---
+
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaditya2110&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya2110&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -45,10 +50,7 @@ const aaditya = {
 ---
 
 ## 🎨 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya2110&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Contribution Graph"/>
 </div>
-
----
-
-
