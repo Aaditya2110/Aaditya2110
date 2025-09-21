@@ -18,11 +18,8 @@ const aaditya = {
 };
 ```
 
----
 
 
-
----
 
 ## 📊 GitHub Analytics
 
