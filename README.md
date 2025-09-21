@@ -28,6 +28,6 @@ const aaditya = {
 
 <!-- Profile Views -->
 
-<img src="https://komarev.com/ghpvc/?username=aaditya2110&label=Profile%20views&color=808080&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=aaditya2110&label=Profile%20views&color=grey&style=for-the-badge" alt="Profile Views"/>
 
 </div> ```
