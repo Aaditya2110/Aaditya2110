@@ -1,7 +1,7 @@
 # Welcome to My Github!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+Hello World !" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800080&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+Hello+World+!" alt="Typing SVG" />
 </div>
 
 
