@@ -15,13 +15,6 @@ const aaditya = {
   currentFocus: "Building amazing user experiences",
   lifePhilosophy: "Code is poetry written in logic 💫"
 };
-```
-
-- 🔭 **Currently working on:** Various innovative projects
-- 🌱 **Learning:** Dart & App Development
-- 💻 **Portfolio:** [View My Work](https://aaditya2110.github.io/Portfolio/)
-- 📧 **Contact:** aadityagaur913@gmail.com
-- 📄 **Resume:** [Download PDF](https://drive.google.com/file/d/1OFTo5Nxr2G0SZCb9TpVcRDkKPZxG4xUD/view?usp=sharing)
 
 ---
 
@@ -58,9 +51,4 @@ const aaditya = {
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaditya2110&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
 
----
