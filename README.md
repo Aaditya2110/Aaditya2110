@@ -25,8 +25,5 @@ const aaditya = {
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aaditya2110&hide_border=true&background=000000&ring=808080&fire=808080&currStreakLabel=FFFFFF&sideNums=CCCCCC&currStreakNum=FFFFFF&sideLabels=808080&dates=666666" alt="GitHub Streak"/>
 
-<!-- Profile Views -->
-
-<img src="https://komarev.com/ghpvc/?username=aaditya2110&label=Profile%20views&color=grey&style=for-the-badge" alt="Profile Views"/>
 
 </div> 
